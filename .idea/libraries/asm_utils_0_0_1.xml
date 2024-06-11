@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asm-utils-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/io/papermc/asm-utils/0.0.1/asm-utils-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
